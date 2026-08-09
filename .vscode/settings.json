@@ -1,7 +1,7 @@
 {
   "workbench.colorCustomizations": {
     // 标题栏
-    "titleBar.activeBackground": "#2E7A6E",
+    "titleBar.activeBackground": "#2e777a",
     "titleBar.activeForeground": "#EDECEA",
     "titleBar.inactiveBackground": "#255F56",
     "titleBar.inactiveForeground": "#9DA89F",
