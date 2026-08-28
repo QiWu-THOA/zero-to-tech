@@ -4,8 +4,16 @@ from pydantic import BaseModel
 
 app = FastAPI()
 
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:3000"],
+    allow_methods=["GET", "POST"],
+    allow_headers=["*"],
+)
+
+
 profile = {
-    "heroTitle": "关于我（来自后端）",
+    "heroTitle": "关于我",
     "heroSubtitle": "项目，创意，灵感，心得，我的作品",
     "featuredWork": {
         "kicker": "作品",
