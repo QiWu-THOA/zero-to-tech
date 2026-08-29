@@ -1,0 +1,23 @@
+[
+  {
+    "text": "今天的风很轻，适合把脑海里的想法慢慢写下来。",
+    "score": 1.0,
+    "label": "偏积极",
+    "pinyin": "jīn tiān de fēng hěn qīng ， shì hé bǎ nǎo hǎi lǐ de xiǎng fǎ màn màn xiě xià lái 。",
+    "created_at": "2026-08-29T03:50:51+00:00"
+  },
+  {
+    "text": "这部电影很不错",
+    "score": 0.99,
+    "label": "偏积极",
+    "pinyin": "zhè bù diàn yǐng hěn bú cuò",
+    "created_at": "2026-08-29T03:51:05+00:00"
+  },
+  {
+    "text": "“我正式劝朋友们学一点计算机技术”",
+    "score": 0.76,
+    "label": "偏积极",
+    "pinyin": "“ wǒ zhèng shì quàn péng yǒu men xué yì diǎn jì suàn jī jì shù ”",
+    "created_at": "2026-08-29T03:51:34+00:00"
+  }
+]
