@@ -22,3 +22,4 @@ backend/.venv/
 backend/__pycache__/
 *.pycS
 
+backend/*.db
