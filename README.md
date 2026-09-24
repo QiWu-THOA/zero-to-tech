@@ -6,7 +6,7 @@
 
 ```bash
 npm install
-npm run dev          # http://localhost:3000   （Next 默认端口是 3000）
+npm run dev          # http://localhost:3000   
 ```
 
 ## 把你的 4.4 项目（`zero-to-tech`）变成这样：整包替换
